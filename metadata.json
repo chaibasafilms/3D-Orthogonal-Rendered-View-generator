@@ -1,0 +1,5 @@
+{
+  "name": "3D Orthogonal Rendered View Generator",
+  "description": "Upload a photo, sketch, or blueprint of an object to generate a fully rendered 3D orthographic view. The AI infers depth and volume to create a high-resolution model on a clean white background.",
+  "requestFramePermissions": []
+}
